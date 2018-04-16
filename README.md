@@ -1,2 +1,4 @@
 # zokashin.github.io
-company website
+
+Accesss the company [here](http://zokashin.github.io/)!
+
