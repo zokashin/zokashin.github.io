@@ -20,9 +20,9 @@
             {{ partial "services.html" . }}
         {{ end }}
 
-        {{ if .Site.Data.projects }}
+        <!--{{ if .Site.Data.projects }}
             {{ partial "portfolio.html" . }}
-        {{ end }}
+        {{ end }}-->
 
         {{ if .Site.Params.location }}
             {{ partial "location.html" . }}
@@ -35,6 +35,8 @@
         {{ if .Site.Params.contact }}
             {{ partial "contact.html" . }}
         {{ end }}
+
+        {{ partial "form.html"    . }}
 
         {{ if .Site.Data.projects }}
             {{ partial "modals.html" . }}
