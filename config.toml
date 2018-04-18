@@ -61,8 +61,8 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need (change)!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		headline    = "Feel smart and feel good"
+		description = "Our name, zõkashin, comes from a Japanese word that means something awesome.This is a good name for us because we also do something awesome. We use IoT technology to give you smart devices, and they reduce overall energy so you can feel good about how you consume"
 		buttonText  = "Get started!"
 
 
