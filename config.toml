@@ -72,12 +72,12 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-mixcloud"
-            title = "cloud communication"
+            title = "Cloud communication"
             description = "Our platform uses wireless software that lets you change your system from anywhere."
 
         [[params.services.list]]
 			icon = "fa-mobile"
-			title = "Compatible with mobile devices"
+			title = "Mobile compatibility"
 			description = "You can reduce your energy bill from anywhere"
 
 		[[params.services.list]]
