@@ -491,7 +491,7 @@ body {
 }
 
 form {
-  max-width: 450px;
+  max-width: 750px;
   margin: 0 auto 100px;
   padding: 0 20px; }
   form input, form textarea {
@@ -550,4 +550,4 @@ form {
   background: #e5eaee;
   text-align: center; }
   .form-success p {
-    font-size: 18px; }
+    font-size: 20px; }
