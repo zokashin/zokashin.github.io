@@ -1,10 +1,11 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "zokashin"
+title = "zõkashin"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
 [params]
+
 
 	# You can use Markdown syntax for urls [text](//url.to/source) for
 	# most longer texts.
@@ -17,7 +18,7 @@ googleAnalytics = ""
 	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
 	# folder into the 'data' directory at the root of this Hugo site.
 	# For more information take a look at the README.
-
+  #ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "Leo Trudel"
@@ -41,7 +42,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "zokashin"
+		brand = "zõkashin"
 
 		[params.navigation.links]
 			about     = "About"
@@ -70,14 +71,14 @@ googleAnalytics = ""
 		headline = "At your service"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-mixcloud"
+            title = "cloud communication"
+            description = "Our platform uses wireless software that lets you change your system from anywhere."
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			icon = "fa-mobile"
+			title = "Compatible with mobile devices"
+			description = "You can reduce your energy bill from anywhere"
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
@@ -85,9 +86,9 @@ googleAnalytics = ""
             description = "We update dependencies to keep things fresh."
 
         [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            icon = "fa-bolt"
+            title = "Diagnostic Tools"
+            description = "Our quality control system uses constantly updating data to fix your problems as fast as lightening"
 
 
     # Portfolio modals
