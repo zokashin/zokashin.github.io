@@ -24,7 +24,7 @@ googleAnalytics = ""
 	description = "CEO of Zokashin"
 
 	# The path must be relative to the static folder
-	favicon = "leo.png"
+	favicon = "hvac.png"
 
   # For a static site it's not possible to provide a contact form. The contact form uses
   # www.formspree.io as a proxy. The form makes a Post request to their servers to send an email
