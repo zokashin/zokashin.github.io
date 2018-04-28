@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "zõkashin"
+title = "zōkashin"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -22,7 +22,7 @@ googleAnalytics = ""
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "Leo Trudel"
-	description = "CEO of Zokashin"
+	description = "CEO of Zōkashin"
 
 	# The path must be relative to the static folder
 	favicon = "hvac.png"
@@ -42,7 +42,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "zõkashin"
+		brand = "zōkashin"
 
 		[params.navigation.links]
 			about     = "About"
@@ -54,21 +54,21 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "the HVAC whisperers"
+		slogan     = "Title"
 		subtitle   = "we do cool stuff which is the point of this paragraph"
 		buttonText = "Learn more"
 
 
 	# About section
 	[params.about]
-		headline    = "Feel smart and feel good"
-		description = "Our name, zõkashin, comes from a Japanese word that means something awesome.This is a good name for us because we also do something awesome. We use IoT technology to give you smart devices, and they reduce overall energy so you can feel good about how you consume"
+		headline    = "Smart Home Solutions for Large-Scale Deployments"
+		description = "The market for smart home solutions is expected to reach $165 billion by 2025 as hundreds of millions of home owners choose to invest in convenience, property value, and energy management.  However, multifamily residential and medium-sized commercial buildings, which are too complex for standard smart home solutions but too small for industrial scale automation, have been conspicuously left out of this technological revolution. As a result, they have failed to modernize and continue to stretch their operating budgets while single-family homes and large-scale commercial properties are realizing the benefits of sophisticated building intelligence. Zōkashin fills this gap with its smart home-type system designed specifically for large buildings in need of technology-driven management solutions that benefit owners and tenants alike. Whether you want to preserve asset life, improve tenant comfort, manage energy and/or emissions, or integrate workflow, we can help you do so while generating positive ROI."
 		buttonText  = "Get started!"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Platform Features"
 
         [[params.services.list]]
             icon = "fa-mixcloud"
