@@ -72,7 +72,7 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-mixcloud"
-            title = "Centralized and Distributed Controls"
+            title = "Centralized & Distributed Controls"
             description = "Tenants can control their HVAC units from their smartphones, while controls can be also be centralized for commercial deployments."
 
         [[params.services.list]]
@@ -116,6 +116,9 @@ googleAnalytics = ""
         title = "Ultimate Flexibility"
         description = "Our system interfaces with virtually any kind of HVAC system, is simple to install, and requires no retrofitting."
 
+        [[params.services.end]]
+        title = "And More!"
+        description = "Coming soon... <br><br> We are rolling out security, lighting, and water conservation solutions. Sign up for our platform now, and we’ll give you discounts and installation priority when these modules are available. Our system interfaces with virtually any kind of HVAC system, is simple to install, and requires no retrofitting."
 
 
     # Portfolio modals
