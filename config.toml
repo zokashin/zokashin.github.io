@@ -62,7 +62,7 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "Smart Home Solutions for Large-Scale Deployments"
-		description = "The market for smart home solutions is expected to reach $165 billion by 2025 as hundreds of millions of home owners choose to invest in convenience, property value, and energy management.  However, multifamily residential and medium-sized commercial buildings, which are too complex for standard smart home solutions but too small for industrial scale automation, have been conspicuously left out of this technological revolution. As a result, they have failed to modernize and continue to stretch their operating budgets while single-family homes and large-scale commercial properties are realizing the benefits of sophisticated building intelligence. Zōkashin fills this gap with its smart home-type system designed specifically for large buildings in need of technology-driven management solutions that benefit owners and tenants alike. Whether you want to preserve asset life, improve tenant comfort, manage energy and/or emissions, or integrate workflow, we can help you do so while generating positive ROI."
+		description = "The market for smart home solutions is expected to reach $165 billion by 2025 as hundreds of millions of home owners choose to invest in convenience, property value, and energy management.  However, multifamily residential and medium-sized commercial buildings, which are too complex for standard smart home solutions but too small for industrial scale automation, have been conspicuously left out of this technological revolution. As a result, they have failed to modernize and continue to stretch their operating budgets while single-family homes and large-scale commercial properties are realizing the benefits of sophisticated building intelligence. <br><br> Zōkashin fills this gap with its smart home-type system designed specifically for large buildings in need of technology-driven management solutions that benefit owners and tenants alike. Whether you want to preserve asset life, improve tenant comfort, manage energy and/or emissions, or integrate workflow, we can help you do so while generating positive ROI."
 		buttonText  = "Get started!"
 
 
@@ -72,23 +72,50 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-mixcloud"
-            title = "Cloud communication"
-            description = "Our platform uses wireless software that lets you change your system from anywhere."
+            title = "Centralized and Distributed Controls"
+            description = "Tenants can control their HVAC units from their smartphones, while controls can be also be centralized for commercial deployments."
 
         [[params.services.list]]
-			icon = "fa-mobile"
-			title = "Mobile compatibility"
-			description = "You can reduce your energy bill from anywhere"
-
-		[[params.services.list]]
+            icon = "fa-mobile"
+			      title = "Scheduling"
+			      description = "Residential tenants can control runtime schedules while commercial facilities managers can centralize scheduling while allowing authorized employees to adjust temperatures as needed during business hours."
+			      
+			  [[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            title = "Fault detection"
+            description = "Our devices will tell you if your HVAC units are behaving abnormally and recommend appropriate courses of action to optimize efficiency and reduce costly equipment failures."
 
-        [[params.services.list]]
+        [[params.services.list2]]
             icon = "fa-bolt"
             title = "Diagnostic Tools"
-            description = "Our quality control system uses constantly updating data to fix your problems as fast as lightening"
+            description = "Our quality control system uses constantly updating data to fix your problems as fast as lightening."
+            
+        [[params.services.list2]]
+            icon = "fa-bolt"
+            title = "Maintenance Integration"
+            description = "Predictive, reactive, and user-submitted maintenance requests can be sent directly to your contracted maintenance provider via email or integrated with your current dispatch system."
+
+        [[params.services.list2]]
+        icon = "fa-bolt"
+        title = "OEM Integration"
+        description = "We work directly with your HVAC’s manufacturer to ensure your equipment is running at an optimal level."
+            
+       [[params.services.list3]]
+        icon = "fa-bolt"
+        title = "Utility Integration"
+        description = "Integrate with your utility for better service and Demand Response revenue."
+        
+        [[params.services.list3]]
+        icon = "fa-bolt"
+        title = "Marketplace"
+        description = "Find new maintenance service providers for long-term relationships, emergency situations, and anything in between."
+
+
+       [[params.services.list3]]
+        icon = "fa-bolt"
+        title = "Ultimate Flexibility"
+        description = "Our system interfaces with virtually any kind of HVAC system, is simple to install, and requires no retrofitting."
+
 
 
     # Portfolio modals
