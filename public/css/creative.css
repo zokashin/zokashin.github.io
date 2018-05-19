@@ -524,14 +524,17 @@ form {
     form [type="submit"]:hover {
       background: #133a7a; }
   form .contact-info-group label {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     width: 50%;
     float: left;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
     form .contact-info-group label:nth-child(1) {
+      font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
       padding-right: 10px; }
     form .contact-info-group label:nth-child(2) {
+      font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
       padding-left: 10px; }
   form label {
     display: block;
@@ -542,10 +545,13 @@ form {
 
 @media (max-width: 541px) {
   form .contact-info-group label {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     width: 100%; }
     form .contact-info-group label:nth-child(1) {
+      font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
       padding: 0; }
     form .contact-info-group label:nth-child(2) {
+      font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
       padding: 0; }
   form [type="submit"] {
     width: 100%; } }
