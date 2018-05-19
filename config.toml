@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "zokashin.com"
 languageCode = "en-us"
 title = "zōkashin"
 theme = "hugo-creative-theme"
