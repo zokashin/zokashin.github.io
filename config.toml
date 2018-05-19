@@ -54,8 +54,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Title"
-		subtitle   = "we do cool stuff which is the point of this paragraph"
+		slogan     = "Better Management and Tenant Comfort"
+		subtitle   = "Smart home products, optimized for multitenant building applications"
 		buttonText = "Learn more"
 
 
@@ -71,55 +71,52 @@ googleAnalytics = ""
 		headline = "Platform Features"
 
         [[params.services.list]]
-            icon = "fa-mixcloud"
+            icon = "fa-tablet"
             title = "Centralized & Distributed Controls"
             description = "Tenants can control their HVAC units from their smartphones, while controls can be also be centralized for commercial deployments."
 
         [[params.services.list]]
-            icon = "fa-mobile"
+            icon = "fa-calendar"
 			      title = "Scheduling"
 			      description = "Residential tenants can control runtime schedules while commercial facilities managers can centralize scheduling while allowing authorized employees to adjust temperatures as needed during business hours."
 			      
 			  [[params.services.list]]
-            icon = "fa-newspaper-o"
+            icon = "fa-exclamation-triangle"
             title = "Fault detection"
             description = "Our devices will tell you if your HVAC units are behaving abnormally and recommend appropriate courses of action to optimize efficiency and reduce costly equipment failures."
 
         [[params.services.list2]]
             icon = "fa-bolt"
-            title = "Diagnostic Tools"
-            description = "Our quality control system uses constantly updating data to fix your problems as fast as lightening."
+            title = "Real Time Data"
+            description = "Our system delivers key operational insights in real time, providing actionable information to decisionmakers."
             
         [[params.services.list2]]
-            icon = "fa-bolt"
+            icon = "fa-wrench"
             title = "Maintenance Integration"
             description = "Predictive, reactive, and user-submitted maintenance requests can be sent directly to your contracted maintenance provider via email or integrated with your current dispatch system."
 
         [[params.services.list2]]
-        icon = "fa-bolt"
+        icon = "fa-industry"
         title = "OEM Integration"
         description = "We work directly with your HVAC’s manufacturer to ensure your equipment is running at an optimal level."
             
        [[params.services.list3]]
-        icon = "fa-bolt"
+        icon = "fa-plug"
         title = "Utility Integration"
         description = "Integrate with your utility for better service and Demand Response revenue."
         
         [[params.services.list3]]
-        icon = "fa-bolt"
+        icon = "fa-shopping-cart"
         title = "Marketplace"
         description = "Find new maintenance service providers for long-term relationships, emergency situations, and anything in between."
 
 
        [[params.services.list3]]
-        icon = "fa-bolt"
+        icon = "fa-check"
         title = "Ultimate Flexibility"
         description = "Our system interfaces with virtually any kind of HVAC system, is simple to install, and requires no retrofitting."
 
-        [[params.services.end]]
-        title = "And More!"
-        description = "Coming soon... <br><br> We are rolling out security, lighting, and water conservation solutions. Sign up for our platform now, and we’ll give you discounts and installation priority when these modules are available. Our system interfaces with virtually any kind of HVAC system, is simple to install, and requires no retrofitting."
-
+       
 
     # Portfolio modals
 	#[params.portfolio.modal]
@@ -141,6 +138,7 @@ googleAnalytics = ""
 		  email = "Your Email"
 		  message = "Your Message"
 		  buttonText = "Send"
+		  
 			
 			
 	# Google Maps section
